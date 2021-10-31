@@ -21,7 +21,7 @@ Stephen switches his lights and buttons to ground.
 A warning if you don't know, the 4116 also uses 12v and -5v. Be careful not to get things mixed up 
 if you go there.
 
-Now using the internal thermistor and 2 analog pins as a seed for the random test. 
+Now using the internal thermistor and 2 analog pins as a seed for the random test.
 I don't have an Arduino without a thermistor to test on there.
 
 LEDs
